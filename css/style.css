@@ -1,0 +1,114 @@
+
+.container-fluid{
+	position: relative;
+}
+li a{
+	padding: 10px;
+}
+.img-text{
+	position: absolute;
+	top: 30%;
+	left: 10%;
+}
+.img-text1{
+	position: absolute;
+	top: 5%;
+	right: 15%;
+}
+.img-text2{
+	position: absolute;
+	top: 5%;
+	right: 4%;
+}
+.img-left{
+	margin-left: 40%;
+}
+.effect{
+	position: relative;
+	display: block;
+	width: 300px;
+	margin-left: auto;
+}
+.testimonial{
+	position: absolute;
+	top: 3%;
+	left: 6%;
+}
+.text-left{
+	color: #90ca34;
+	font-weight: normal;
+}
+.para{
+	text-align: justify; 
+	margin-right: 15px;
+}
+.ico{
+	color: orange;
+	margin-left: 120px;
+}
+.effect1{
+	position: relative;
+	display: block;
+	width: 750px;
+	margin-right: auto;
+}
+.service{
+	position: absolute;
+	top: 3%;
+	left: 3%;
+}
+.shift{
+	border-left: 6px solid #92c43e;
+	margin-left: 6px;
+}
+.shift1{
+	margin-left: -70px;
+	color: white;
+}
+.shift2{
+	margin-left: -100px;
+	color: white;
+}
+.simple{
+	text-align: justify; 
+	margin-right: 60px;
+}
+.img-text3{
+	position: relative;
+	bottom: 15%;
+	color: white;
+}
+.img-text4{
+	position: relative;
+	bottom: 35%;
+	right: 2%;
+}
+.nav-link{
+	color: black;
+}
+h4{
+	color: #73b347;
+}
+strong{
+	color: #f76f6d;
+}
+.a{
+	color: #73b347;
+	font-weight: bold;
+	line-height: 15px;
+}
+table{
+	width: 70%;
+}
+table tr,td{
+	padding: 5px;
+	vertical-align: top;
+}
+input{
+	font-size: 20px;
+}
+.c{
+	margin-left: 20px;
+    margin-top: -25px;
+    color: white;
+}
